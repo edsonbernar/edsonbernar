@@ -1,5 +1,6 @@
-Solid knowledge in development, implementation, customization and training in ERP (Enterprise Resource Planning) systems
-Active in the creation of mobile applications (Python-Kivy), web and desktops.  
+### Hi, I'm Edson Bernardino
+Work in the development, implementation, customization and training in ERP (Enterprise Resource Planning) systems.
+Creation of mobile (Python-Kivy), web and desktop applications.
 
 <hr>
 
