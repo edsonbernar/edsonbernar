@@ -1,6 +1,6 @@
 ### Hi, I'm Edson
 Work in the development, implementation, customization and training in ERP (Enterprise Resource Planning) systems.
-Creation of mobile (Python-Kivy), web and desktop applications.
+Creation of mobile (Python-Kivy, Flutter), web and desktop applications.
 
 <hr>
 
